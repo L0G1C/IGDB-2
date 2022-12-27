@@ -8,10 +8,10 @@ Person 2
 
 
 ## Sourced / Unaffiliated
-### Asset Type
-#### Use Case
-Author: [Name]()  
-Source: [Domain : webpage.html]()  
+### Art
+#### Character sprites
+Author: [elv-games](https://twitter.com/ElvGames)  
+Source: [Itch.io : https://elv-games.itch.io/free-retro-game-world-sprites](https://elv-games.itch.io/free-retro-game-world-sprites)  
 License: [License]()
 
 
