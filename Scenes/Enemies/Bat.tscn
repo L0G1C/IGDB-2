@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=2]
 
-[ext_resource path="res://Enemies/Enemy.tscn" type="PackedScene" id=1]
-[ext_resource path="res://Enemies/Bat.gd" type="Script" id=2]
+[ext_resource path="res://Scenes/Enemies/Enemy.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Scenes/Enemies/Bat.gd" type="Script" id=2]
 [ext_resource path="res://Resources/Art/zelda_futuristic_asset_pack/zelda_futuristic_asset_pack/fx/light_blue_v2.png" type="Texture" id=3]
 [ext_resource path="res://Resources/Art/zelda_futuristic_asset_pack/zelda_futuristic_asset_pack/fx/light_red_v2.png" type="Texture" id=4]
 
@@ -26,7 +26,6 @@ script = ExtResource( 2 )
 position = Vector2( -0.04, -0.04 )
 scale = Vector2( 0.07, 0.07 )
 frames = SubResource( 1 )
-frame = 1
 
 [node name="CollisionShape2D" parent="." index="1"]
 position = Vector2( -0.039999, -0.04 )
